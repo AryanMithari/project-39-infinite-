@@ -15,7 +15,7 @@ var track, runner1_img, hurdle, invisibleGround;
 function preload() {
     hurdle = loadImage("hurdle1.png");
     track = loadImage("123.jpg");
-    runner1_img = loadAnimation("b.png", "p.png", "y.png");
+    runner1_img = loadAnimation("a.png", "b.png", "c.png");
     
 }
 
